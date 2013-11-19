@@ -1,1 +1,1 @@
-This repo is for sharing js jquery plugins and css tricks and 
+This repo is for sharing js jquery plugins and css tricks and other stuff
